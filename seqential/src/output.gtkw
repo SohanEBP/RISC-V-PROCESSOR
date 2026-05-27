@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Mon Mar  3 18:53:34 2025
+[*]
+[dumpfile] "/home/priyanshi-jain/Desktop/sem4/ipa/proj/sohan/sohan.vcd"
+[dumpfile_mtime] "Mon Mar  3 18:52:02 2025"
+[dumpfile_size] 35156
+[savefile] "/home/priyanshi-jain/Desktop/sem4/ipa/proj/sohan/output.gtkw"
+[timestart] 0
+[size] 1920 1121
+[pos] -51 -51
+*-4.542318 3 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] main_wrap_tb.
+[sst_width] 278
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 338
+@421
+main_wrap_tb.uut.ALUsrc
+main_wrap_tb.uut.Branch
+main_wrap_tb.uut.MemRead
+main_wrap_tb.uut.MemWrite
+main_wrap_tb.uut.MemtoReg
+main_wrap_tb.uut.Readdata[63:0]
+main_wrap_tb.uut.RegWrite
+main_wrap_tb.uut.alu_control[3:0]
+main_wrap_tb.uut.alu_result[63:0]
+main_wrap_tb.uut.aluop[1:0]
+main_wrap_tb.uut.branch_imm
+main_wrap_tb.uut.clk
+main_wrap_tb.uut.func3[2:0]
+main_wrap_tb.uut.immediate[63:0]
+main_wrap_tb.uut.instruct[31:0]
+main_wrap_tb.uut.next_pc_add[63:0]
+main_wrap_tb.uut.opcode[6:0]
+main_wrap_tb.uut.overflow
+main_wrap_tb.uut.pc_add[63:0]
+main_wrap_tb.uut.rd[4:0]
+main_wrap_tb.uut.read1[63:0]
+main_wrap_tb.uut.read2[63:0]
+main_wrap_tb.uut.rs1[4:0]
+main_wrap_tb.uut.rs2[4:0]
+main_wrap_tb.uut.source2[63:0]
+main_wrap_tb.uut.write_data[63:0]
+main_wrap_tb.uut.zero
+[pattern_trace] 1
+[pattern_trace] 0
